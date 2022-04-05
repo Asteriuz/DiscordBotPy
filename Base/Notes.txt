@@ -1,0 +1,51 @@
+-------------------- Dados -------------------- 
+Valor maior = Fracasso
+Valor menor  = Normal
+Menor que 1/2 do valor = Bom
+Menor que 1/5 do valor = Muito Bom
+Menor que 1/10 do valor = Extremo
+
+Maioria dos dados de 100
+
+-------------------- Atributos -------------------- 
+
+Agilidade
+Carisma
+Constituição
+Força
+Furtividade
+Inteligência
+Poder
+Sabedoria
+
+-------------------- Valores -------------------- 
+
+Peso que carrega = Força
+Movimento = 1/10 Agilidade
+Pontos de esforço = Poder
+Health Points = 12 + 1/5 da Constituição
+Sanidade = Poder
+
+-------------------- Habilidades -------------------- 
+
+Categorias:
+Luta
+Distância
+Investigação
+Interpessoais
+Educação
+Suporte
+
+-------------------- Perícias --------------------
+
+Categorias:
+Luta
+Distância
+Investigação
+Interpessoais
+Educação
+Suporte
+
+-------------------- Em Breve --------------------
+
+- Subtrair valor do dado

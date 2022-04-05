@@ -1,0 +1,18 @@
+{
+    "modelo": {
+        "Atributos": {
+            "Apelido": "",
+            "Força": 50,
+            "Agilidade": 100,
+            "Constituição": 5,
+            "Sabedoria": 5,
+            "Inteligência": 120,
+            "Furtividade": 60,
+            "Carisma": 100,
+            "Poder": 120,
+            "HP": 30,
+            "Cor": "0x7906c6",
+            "Imagem": ""
+        }
+    }
+}

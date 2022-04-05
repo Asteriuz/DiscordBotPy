@@ -1,0 +1,34 @@
+{
+    "modelo": {
+        "Atributos": {
+            "Apelido": "",
+            "Força": 50,
+            "Agilidade": 100,
+            "Constituição": 5,
+            "Sabedoria": 5,
+            "Inteligência": 120,
+            "Furtividade": 60,
+            "Carisma": 100,
+            "Poder": 120,
+            "HP": 30,
+            "Cor": "0x7906c6",
+            "Imagem": ""
+        }
+    },
+    "Asteriuz": {
+        "Atributos": {
+            "Apelido": "Programmerthi",
+            "Força": "0",
+            "Agilidade": "0",
+            "Constituição": 0,
+            "Sabedoria": 0,
+            "Inteligência": 0,
+            "Furtividade": 0,
+            "Carisma": 0,
+            "Poder": "0",
+            "HP": 12,
+            "Cor": "0x000000",
+            "Imagem": "https://cdn.discordapp.com/avatars/262450000456318976/fac4113b44b20a1c5baab162d600f9be.webp?size=1024"
+        }
+    }
+}
